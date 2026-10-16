@@ -1,4 +1,8 @@
-# StoryLine
+# StoryLine — Consent-First Family Storytelling
+
+<p align="center">
+  <img src="assets/brand/README-logo.svg" alt="StoryLine — stories shared on each person's terms" width="760">
+</p>
 
 A consent-first family storytelling concept: regular conversations become stories and keepsakes for a family archive. Any synthetic voice feature would require separate, explicit, recorded consent and clear limits on how it can be used.
 
@@ -40,7 +44,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for development guidance.
 
 ## License
 
-No license has been selected yet. Public visibility does not grant permission to reuse the code.
+This source-available project is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE). Noncommercial use is permitted under its terms; commercial use requires separate written permission.
 
 ## Contact
 

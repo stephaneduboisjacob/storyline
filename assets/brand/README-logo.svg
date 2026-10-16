@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">StoryLine — Stories shared on your terms.</title>
+  <desc id="desc">An open book joined by a gentle, continuous story line.</desc>
+  <defs>
+    <linearGradient id="lavender" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D8B9FF"/><stop offset="1" stop-color="#9B7CE5"/></linearGradient>
+    <linearGradient id="peach" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F7BC9C"/><stop offset="1" stop-color="#F08EA7"/></linearGradient>
+  </defs>
+  <rect x="8" y="8" width="1184" height="304" rx="40" fill="#211C2B"/>
+  <circle cx="160" cy="160" r="112" fill="#30273E"/>
+  <path d="M74 111c34-13 61-9 86 8 25-17 52-21 86-8v111c-33-11-61-8-86 9-25-17-53-20-86-9z" fill="#3B3150" stroke="url(#lavender)" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M160 120v111M91 135c17-5 33-4 49 2M91 158c17-5 33-4 49 2M180 137c16-6 33-7 49-2M180 160c16-6 33-7 49-2" fill="none" stroke="#C9B6E6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M71 93c23 0 25 24 46 24 15 0 20-14 34-14 12 0 16 14 29 14 17 0 20-21 37-21" fill="none" stroke="url(#peach)" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="71" cy="93" r="7" fill="#F7BC9C"/><circle cx="217" cy="96" r="7" fill="#F08EA7"/>
+  <text x="310" y="156" fill="#FBF7F2" font-family="Inter,Arial,sans-serif" font-size="82" font-weight="750" letter-spacing="-3">StoryLine</text>
+  <text x="316" y="215" fill="#B8AFC5" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="600" letter-spacing="3.5">STORIES SHARED ON YOUR TERMS</text>
+  <path d="M316 251h190" stroke="#C4A0EE" stroke-width="5" stroke-linecap="round"/>
+</svg>
